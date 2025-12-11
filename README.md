@@ -1,2 +1,2 @@
 # dashboard
-this is demo-dashboard
+this is demo-dashboard.
